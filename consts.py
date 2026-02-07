@@ -1,8 +1,4 @@
 
-# para todo el proyecto (no cambian)
-SRATE = 48000 # frecuencia de muestreo
-CHUNK = 1024  # tamaño de los CHUNKs
-
 # mapeo de teclas del ordenador a notas en el piano
 # utilizamos '.' para los sostenidos
 teclas = "zsxdcvgbhnjmq2w3er5t6y7u"  # 2 de teclas filas 
@@ -18,4 +14,3 @@ pitchs = [ 220*2.0**(i/12.0) for i in range(len(teclas))]
 # El LA central es la nota midi 70 y su frecuencia es 440
 # construimos hacia abajo y hacia arriba el resto de notas
 freqsMidi = [ 440*2.0**(i/12.0) for i in range(-69,59)]
-

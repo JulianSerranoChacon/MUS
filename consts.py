@@ -14,3 +14,8 @@ pitchs = [ 220*2.0**(i/12.0) for i in range(len(teclas))]
 # El LA central es la nota midi 70 y su frecuencia es 440
 # construimos hacia abajo y hacia arriba el resto de notas
 freqsMidi = [ 440*2.0**(i/12.0) for i in range(-69,59)]
+
+
+SRATE = 48000 # Sample rate, para todo el notebook
+
+CHUNK = 1024

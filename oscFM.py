@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from consts import *
 
 class OscFM:
-    def __init__(self,fc=110.0,amp=1.0,fm=6.0, beta=1.0, fmshape='sin', fcshape='sin'):
+    def __init__(self, beta = osc.Osc(), fc=110.0,amp=1.0,fm=6.0, fmshape='sin', fcshape='sin'):
         self.fc = fc
         self.amp = amp
         self.fm = fm
@@ -18,7 +18,7 @@ class OscFM:
         self.fmShape = fmshape
 
         # moduladora = βsin(2πfm)
-        self.mod = osc.Osc(freq=fm,amp=beta, shape=fmshape)
+        self.mod = osc.Osc(freq=fm, shape=fmshape)
 
     def next(self):  
         # sin(2πfc+mod)  
@@ -35,20 +35,15 @@ class OscFM:
             sig = sg.sawtooth(sig)
         elif self.fcShape == 'triangle':
             sig = sg.sawtooth(sig, 0.5)
-        out =  self.amp*sig
+
+        out =  self.amp*self.beta.next()*sig
+
         self.frame += CHUNK
         return out 
-
-    def setBeta(self,beta):
-        self.beta = beta
-        self.mod.amp = beta
 
     def setFm(self,fm):
         self.fm = fm
         self.mod.freq = fm
-
-    def getBeta(self):
-        return self.beta    
 
     def getFm(self):
         return self.fm

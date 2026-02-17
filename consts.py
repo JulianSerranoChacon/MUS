@@ -1,3 +1,5 @@
+# Julian Serrano Chacon
+# Mika Rodriguez Castro
 
 # mapeo de teclas del ordenador a notas en el piano
 # utilizamos '.' para los sostenidos

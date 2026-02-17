@@ -1,3 +1,5 @@
+# Julian Serrano Chacon
+# Mika Rodriguez Castro
 
 import numpy as np   
 import osc

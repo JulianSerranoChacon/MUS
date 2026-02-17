@@ -1,4 +1,7 @@
 
+# Julian Serrano Chacon
+# Mika Rodriguez Castro
+
 from consts import *
 import numpy as np         
 import sounddevice as sd       

@@ -1,3 +1,5 @@
+# Julian Serrano Chacon
+# Mika ROdriguez Castro
 
 import numpy as np   
 import matplotlib.pyplot as plt

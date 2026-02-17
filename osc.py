@@ -2,6 +2,7 @@
 from consts import *
 import numpy as np         
 import sounddevice as sd       
+import scipy.signal as sg
 import matplotlib.pyplot as plt
 
 class Osc:
@@ -55,3 +56,6 @@ class Osc:
             self.amp = 0
         else:
             self.amp = amp
+
+    def setShape(self, shape):
+        self.shape = shape

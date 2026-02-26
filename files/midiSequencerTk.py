@@ -86,18 +86,16 @@ class MidiSequencerTk:
 
         # hay que procesar TODOS los ítems cuyo tiempo supere el crono accTime    
         while item<len(seq) and accTime>=seq[item][0]:
-            (_,msg,midiNote,_chan) = seq[item]  # (time,'noteOff',midNote,channel)
+            (_,msg,midiNote,chan) = seq[item]  # (time,'noteOff',midNote,channel)
 
             # mostramos el evento MIDI en la ventana de texto
             self.text.insert('6.0',  f'{msg} {midiNote}\n') 
 
             # activamos/apagamos nota
             if msg=='noteOn':  
-                for i in range(0, len(self.instruments)):
-                    self.instruments[i].noteOn(midiNote)                   
+                self.instruments[chan].noteOn(midiNote)                   
             else: # msg noteOff   
-                for i in range(0, len(self.instruments)): 
-                    self.instruments[i].noteOff(midiNote)                   
+                self.instruments[chan].noteOff(midiNote)                   
 
             # y avanzmos ítem
             item += 1 

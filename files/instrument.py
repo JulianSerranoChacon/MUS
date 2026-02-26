@@ -29,6 +29,17 @@ class Instrument:
 
         self.betaS = Slider(frameOsc,'beta',packSide=TOP,
                             ini=beta,from_=0.0,to=10.0,step=0.05) 
+        
+
+        self.saveC = Button(frameOsc,text='Save config', command=self.saveConfig)
+        self.saveC.pack(side=BOTTOM)
+
+        self.loadC = Button(frameOsc,text='load config', command=self.loadConfig)
+        self.loadC.pack(side=BOTTOM)
+
+        self.file = Entry(frameOsc) #.pack(side=RIGHT)
+        self.file.insert(0,"files/configIns")
+        self.file.pack(side=BOTTOM) 
 
         # una ventana de texto interactiva para poder lanzar notas con el teclado del ordenador
         text = Text(frameOsc,height=4,width=40)
@@ -131,3 +142,24 @@ class Instrument:
         self.channels = dict() # delegamos en el garbage collector
         # for c in list(self.channels): del self.channels[c]
 
+    def saveConfig(self):
+        print("algo")
+        openf = open(self.file.get(),'w')
+
+        for element in self.getConfig():
+            openf.write(str(element) + '\n')
+
+        openf.close()
+
+    def loadConfig(self):
+        openf = open(self.file.get(),'r')
+
+        self.ampS.scale.set(float(openf.readline()))
+        self.ratioS.scale.set(float(openf.readline()))
+        self.betaS.scale.set(float(openf.readline()))
+        self.attackS.scale.set(float(openf.readline()))
+        self.decayS.scale.set(float(openf.readline()))
+        self.sustainS.scale.set(float(openf.readline()))
+        self.releaseS.scale.set(float(openf.readline())) 
+              
+        openf.close()

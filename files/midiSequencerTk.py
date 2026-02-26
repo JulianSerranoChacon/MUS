@@ -14,12 +14,12 @@ import time
 
 class MidiSequencerTk:
     # análogo a lo anterior
-    def __init__(self,tk,instrument=None):
+    def __init__(self,tk,instruments=None):
         # si no se pasa un instrumento, se crea uno por defecto
-        if instrument == None:            
-            self.instrument = instrument.Instrument(tk,amp=0.2,ratio=3,beta=0.6)
+        if instruments == None:            
+            self.instruments = [instrument.Instrument(tk,amp=0.2,ratio=3,beta=0.6)]
         else:
-            self.instrument = instrument
+            self.instruments = instruments
 
         # Título de la venta
         frame = LabelFrame(tk, text="Midi Sequencer", bg="#908060")
@@ -93,9 +93,11 @@ class MidiSequencerTk:
 
             # activamos/apagamos nota
             if msg=='noteOn':  
-                self.instrument.noteOn(midiNote)                   
-            else: # msg noteOff    
-                self.instrument.noteOff(midiNote)                   
+                for i in range(0, len(self.instruments)):
+                    self.instruments[i].noteOn(midiNote)                   
+            else: # msg noteOff   
+                for i in range(0, len(self.instruments)): 
+                    self.instruments[i].noteOff(midiNote)                   
 
             # y avanzmos ítem
             item += 1 
@@ -108,5 +110,6 @@ class MidiSequencerTk:
 
 
     def stop(self):
-        self.instrument.stop()
+        for i in range(0, len(self.instruments)):
+            self.instruments[i].stop()
         self.state = 'off'   

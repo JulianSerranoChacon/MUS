@@ -12,10 +12,10 @@ notas =  "C.D.EF.G.A.Bc.d.ef.g.a.b"  # mapeadas a 2 octavas
 
 # frecuencias de las notas asociadas a las teclas del teclado
 # partimos del la=220Hz y generamos frecuencias de escala temperada
-pitchs = [ 220*2.0**(i/12.0) for i in range(len(teclas))] 
+#pitchs = [ 220*2.0**(i/12.0) for i in range(len(teclas))] 
 
 # frecuencias asociadas a las notas midi de 0 a 127
 # El LA central es la nota midi 70 y su frecuencia es 440
 # construimos hacia abajo y hacia arriba el resto de notas
-freqsMidi = [ 440*2.0**(i/12.0) for i in range(-69,59)]
+#freqsMidi = [ 440*2.0**(i/12.0) for i in range(-69,59)]
 

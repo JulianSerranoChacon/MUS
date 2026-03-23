@@ -1,0 +1,2153 @@
+<REAPER_PROJECT 0.1 "7.66/linux-x86_64" 1774300307 0
+  <NOTES 0 2
+  >
+  RIPPLE 0 0
+  GROUPOVERRIDE 0 0 0 0
+  AUTOXFADE 129
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  TCPUIFLAGS 0
+  MIXERUIFLAGS 11 48
+  ENVFADESZ10 40
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3455 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1 0
+  VIDEO_CONFIG 0 0 65792
+  PANMODE 3
+  PANLAWFLAGS 3
+  CURSOR 10.43237390197573
+  ZOOM 229.13608788644041 1644 0
+  VZOOMEX 7.23854923 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "Media" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 1 0 0 0 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
+  TIMELOCKMODE 0
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    BEATLEN 4
+    FREQ 1760 880 1
+    SAMPLES "" "" "" ""
+    SPLIGNORE 0 0
+    SPLDEF 2 660 "" 0 ""
+    SPLDEF 3 440 "" 0 ""
+    PATTERN 0 169
+    PATTERNSTR ABBB
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 117 4 4 0
+  PLAYRATE 1 0 0.25 4
+  SELECTION 7.04056760872254 7.16047995242341
+  SELECTION2 7.04056760872254 7.16047995242341
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 1
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_PANLAWFLAGS 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {5B6FAB95-8B35-3186-AB2F-05F7A76D9160}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {C88063E7-D973-E68E-E993-185F1739A106}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+    PT 0.000000000000 117.0000000000 1 262148 0 1 0 "" 0 169 0 ABBB
+    PT 7.179487179487 117.3592259451 1
+    PT 287.150658899507 117.0000000000 1 0 1
+  >
+  RULERHEIGHT 86 86
+  RULERLANE 1 4 "" 0 -1
+  RULERLANE 2 8 "" 0 -1
+  MARKER 1 7.285875 "" 0 0 1 B {808F63B9-6769-A038-28D8-2FFE17478C0F} 0 2
+  <PROJBAY
+  >
+  <TRACK {09728945-6D4E-CB4C-DAF3-43D45FE2CCE8}
+    NAME Vocals
+    PEAKCOL 29396365
+    BEAT -1
+    AUTOMODE 2
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {09728945-6D4E-CB4C-DAF3-43D45FE2CCE8}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {9568D4B7-9637-B37F-7B94-110977D645E7}
+    NAME Vocals1
+    PEAKCOL 29396365
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9568D4B7-9637-B37F-7B94-110977D645E7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {58B275A0-4A5D-8E63-7AA5-F4E8D3AEB490}
+      IID 112
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 11]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B4A2C2D1-D1E1-338A-F658-A85C38A0FE5A}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 11].wav"
+      >
+    >
+  >
+  <TRACK {5E8F801D-6C0D-80D4-5457-F1470D3C0389}
+    NAME Vocals2
+    PEAKCOL 29396365
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5E8F801D-6C0D-80D4-5457-F1470D3C0389}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 34.55977261405259
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EAAF70D3-98A6-0DC7-1307-A5B5E0C8BCFE}
+      IID 113
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 12]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2966D4DA-44A2-E050-6BF3-D004C627FE8D}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 12].wav"
+      >
+    >
+    <ITEM
+      POSITION 34.77920833333312
+      SNAPOFFS 0
+      LENGTH 269.44022738594742
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D32123E8-6EBD-C190-BF35-6E4903CC09D5}
+      IID 113
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 12]"
+      VOLPAN 1 0 1 -1
+      SOFFS 34.55977261405259
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {141BAE52-CFFD-3D4D-3069-21A7C38E3C9D}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 12].wav"
+      >
+    >
+  >
+  <TRACK {A8D5E634-A6E8-8067-9CCB-EA5CBDD532EC}
+    NAME Guitar
+    PEAKCOL 28774503
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A8D5E634-A6E8-8067-9CCB-EA5CBDD532EC}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {14227100-7083-F9E4-DA26-28A6B74694A9}
+    NAME Guitar1
+    PEAKCOL 28774503
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {14227100-7083-F9E4-DA26-28A6B74694A9}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DB9DC654-4098-3054-3185-A89B17DA96FB}
+      IID 110
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 9]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6F97BC76-256F-625A-6BC7-8DD84EA57496}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 9].wav"
+      >
+    >
+  >
+  <TRACK {9BA50B49-C4C5-8987-2C08-8D0F442F79D7}
+    NAME Guitar2
+    PEAKCOL 28774503
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9BA50B49-C4C5-8987-2C08-8D0F442F79D7}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {09812F24-E89D-08AB-CB3E-FC35E86004D6}
+      IID 111
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 10]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F0C1203A-0FAC-632E-C7C3-5B676561FCDA}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 10].wav"
+      >
+    >
+  >
+  <TRACK {22229D3C-98FA-9229-FAFE-0BB02D63E54D}
+    NAME DistorsionGuitar1
+    PEAKCOL 28774503
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {22229D3C-98FA-9229-FAFE-0BB02D63E54D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C7FBD37A-F323-652D-F8B2-A5EE0723101C}
+      IID 114
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 13]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0BFF0129-9E43-8CB1-9FF3-3D0D3753D2B5}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 13].wav"
+      >
+    >
+  >
+  <TRACK {7154FE46-F8CD-D895-0745-2A665929D11C}
+    NAME DistorsionGuitar2
+    PEAKCOL 28774503
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {7154FE46-F8CD-D895-0745-2A665929D11C}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {9A1D8747-1402-93CF-9403-608520481647}
+      IID 115
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 14]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E340ADC-D480-41BB-6538-D2CB8FCD5220}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 14].wav"
+      >
+    >
+  >
+  <TRACK {FB259900-FC4A-7580-E1A2-4A19D688BE10}
+    NAME Bass
+    PEAKCOL 31171647
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FB259900-FC4A-7580-E1A2-4A19D688BE10}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {00C15CBF-6012-2845-354C-72707D619DD3}
+    NAME Bass1
+    PEAKCOL 31171647
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {00C15CBF-6012-2845-354C-72707D619DD3}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E9AB2D10-B4FD-A497-3683-2F118C0969ED}
+      IID 108
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 7]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D8514E1-DC8E-6D96-C81C-30744D910591}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 7].wav"
+      >
+    >
+  >
+  <TRACK {10692102-980D-742B-59A4-502AD4D9D50A}
+    NAME Bass2
+    PEAKCOL 31171647
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0.976 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {10692102-980D-742B-59A4-502AD4D9D50A}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {5C1E5E92-A031-7AD3-ADEB-755D15E72FAD}
+      IID 109
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 8]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {87766536-7101-295B-9C51-A13BE64B407B}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 8].wav"
+      >
+    >
+  >
+  <TRACK {A5FA803A-D158-147C-5DD0-B28DA009105D}
+    NAME Drums
+    PEAKCOL 20244371
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 1 1
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A5FA803A-D158-147C-5DD0-B28DA009105D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+  >
+  <TRACK {0C49CBD5-9C96-18E8-6BF0-CE8CC4315254}
+    NAME MIDI
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 1 5088 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {0C49CBD5-9C96-18E8-6BF0-CE8CC4315254}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 707 65 1213 659
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST3i: MT-PowerDrumKit (MANDA AUDIO) (16 out)" MT-PowerDrumKit.vst3 0 "" 672034263{E79A02246D7767B26A4FFB0690BFCFC8} ""
+        120OKO5e7f4AAAAAEAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAQAAAAAAAAACAAAAAAAA
+        AAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAQAAAAAAAAACAAAAAAAAAtAIAAAEAAAD//wAA
+        pAIAAAEAAAACAAAApAIAALgeRT+JQUA/mpk5P5TAJj8AACA/DD0+P5HvQj9XlkA/2H4yP9h+Mj+NJTA/jSUwP40lMD8AAAA/AAAAPwAAAD891K4+nFOxPm8Sgz4X2Q4/
+        HVpEP2RXIj/hlSg/jNqVPk7ULj9O1C4/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAgD8AAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAmdNJPwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAIA/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAPwAAAAAAAAAAAAAAAAAAgD8AAIA/AACAPwAAAAAAAAAAAAAAAAAAAAAAAAAAEQCUPhEAnD4AAJg+
+        EQCsPhEAtD4RALw+AAAEPxEAxD4AALg+AACoPgAA0D4AANg+AADIPgAA6D4RAOw+EQDUPgAA4D4AAIg+AACgPgAAAAARAPw+AAD4PhEA9D4AAAAAEQDMPgAAwD4AALA+
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkD4RAKQ+AAAAAAAAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AACAPwAAAD8AAIA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgD8AAAA9AAAAAAAAgD8AAIA/CtcjPAAAfj8AACg/AAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAIA/AAAAAAAAAAA=
+        AAAAAAAA
+      >
+      MIDIPRESET 1
+      FLOATPOS 0 0 0 0
+      FXID {78A8F04C-6A9C-8041-C971-1A43A7DD8E90}
+      WAK 1 0
+    >
+    <ITEM
+      POSITION 51.67534984343165
+      SNAPOFFS 0
+      LENGTH 129.13066666666666
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {850C91C1-DEA3-B656-85B7-C444E57F13A6}
+      IID 128
+      NAME 13-MIDI-MIDI
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {89E0FE2B-5CE5-4618-5B09-A693DB4241BE}
+      RECPASS 1
+      <SOURCE MIDI
+        HASDATA 1 960 QN
+        CCINTERP 32
+        POOLEDEVTS {86ED0C41-B411-B329-857A-CB9891BC8E33}
+        E 5087 90 27 7f
+        E 241 80 27 00
+        E 1883 90 28 7f
+        E 240 80 28 00
+        E 3004 90 26 7f
+        E 321 80 26 00
+        E 521 90 26 7f
+        E 240 80 26 00
+        E 561 90 26 7f
+        E 400 80 26 00
+        E 521 90 26 7f
+        E 0 90 30 7f
+        E 160 80 26 00
+        E 80 80 30 00
+        E 521 90 30 7f
+        E 281 80 30 00
+        E 440 90 35 7f
+        E 241 80 35 00
+        E 560 90 34 7f
+        E 201 80 34 00
+        E 440 90 34 7f
+        E 241 80 34 00
+        E 520 90 32 7f
+        E 241 80 32 00
+        E 360 90 32 7f
+        E 161 80 32 00
+        E 440 90 34 7f
+        E 200 80 34 00
+        E 281 90 34 7f
+        E 160 80 34 00
+        E 240 90 34 7f
+        E 161 80 34 00
+        E 240 90 34 7f
+        E 200 80 34 00
+        E 281 90 34 7f
+        E 80 80 34 00
+        E 320 90 26 7f
+        E 481 80 26 00
+        E 280 90 26 7f
+        E 481 80 26 00
+        E 160 90 30 7f
+        E 281 80 30 00
+        E 921 90 26 7f
+        E 281 80 26 00
+        E 280 90 30 7f
+        E 240 80 30 00
+        E 401 90 26 7f
+        E 40 80 26 00
+        E 80 90 34 7f
+        E 80 80 34 00
+        E 1482 90 26 7f
+        E 241 80 26 00
+        E 360 90 30 7f
+        E 201 80 30 00
+        E 320 90 26 7f
+        E 160 80 26 00
+        E 120 90 26 7f
+        E 241 80 26 00
+        E 120 90 30 7f
+        E 120 80 30 00
+        E 281 90 34 7f
+        E 160 80 34 00
+        E 240 90 26 7f
+        E 240 80 26 00
+        E 161 90 30 7f
+        E 200 80 30 00
+        E 481 90 26 7f
+        E 320 80 26 00
+        E 321 90 30 7f
+        E 200 80 30 00
+        E 160 90 30 7f
+        E 160 80 30 00
+        E 321 90 34 7f
+        E 200 80 34 00
+        E 200 90 26 7f
+        E 321 80 26 00
+        E 200 90 30 7f
+        E 241 80 30 00
+        E 520 90 34 7f
+        E 121 80 34 00
+        E 440 90 26 7f
+        E 241 80 26 00
+        E 80 90 30 7f
+        E 160 80 30 00
+        E 280 90 30 7f
+        E 201 80 30 00
+        E 400 90 26 7f
+        E 200 80 26 00
+        E 201 90 34 7f
+        E 160 80 34 00
+        E 3926 90 26 7f
+        E 240 80 26 00
+        E 481 90 30 7f
+        E 160 80 30 00
+        E 481 90 26 7f
+        E 160 80 26 00
+        E 200 90 26 7f
+        E 120 80 26 00
+        E 401 90 34 7f
+        E 120 80 34 00
+        E 441 90 26 7f
+        E 320 80 26 00
+        E 201 90 30 7f
+        E 200 80 30 00
+        E 641 90 26 7f
+        E 280 80 26 00
+        E 441 90 30 7f
+        E 0 90 26 7f
+        E 80 80 26 00
+        E 0 80 30 00
+        E 481 90 34 7f
+        E 120 80 34 00
+        E 320 90 34 7f
+        E 40 80 34 00
+        E 601 90 26 7f
+        E 201 80 26 00
+        E 560 90 30 7f
+        E 201 80 30 00
+        E 8252 90 26 7f
+        E 200 80 26 00
+        E 521 90 30 7f
+        E 200 80 30 00
+        E 321 90 26 7f
+        E 160 80 26 00
+        E 200 90 26 7f
+        E 200 80 26 00
+        E 721 90 26 7f
+        E 161 80 26 00
+        E 240 90 30 7f
+        E 200 80 30 00
+        E 521 90 26 7f
+        E 281 80 26 00
+        E 1041 90 26 7f
+        E 200 80 26 00
+        E 321 90 26 7f
+        E 120 80 26 00
+        E 240 90 30 7f
+        E 201 80 30 00
+        E 480 90 26 7f
+        E 281 80 26 00
+        E 1282 90 26 7f
+        E 200 80 26 00
+        E 2003 90 26 7f
+        E 200 80 26 00
+        E 521 90 30 7f
+        E 200 80 30 00
+        E 401 90 26 7f
+        E 120 80 26 00
+        E 240 90 26 7f
+        E 80 80 26 00
+        E 922 90 26 7f
+        E 200 80 26 00
+        E 441 90 30 7f
+        E 200 80 30 00
+        E 441 90 26 7f
+        E 120 80 26 00
+        E 160 90 26 7f
+        E 120 80 26 00
+        E 281 90 26 7f
+        E 160 80 26 00
+        E 280 90 26 7f
+        E 201 80 26 00
+        E 2083 90 26 7f
+        E 240 80 26 00
+        E 521 90 30 7f
+        E 200 80 30 00
+        E 361 90 26 7f
+        E 120 80 26 00
+        E 200 90 26 7f
+        E 160 80 26 00
+        E 201 90 26 7f
+        E 160 80 26 00
+        E 320 90 30 7f
+        E 201 80 30 00
+        E 200 90 26 7f
+        E 200 80 26 00
+        E 361 90 34 7f
+        E 40 80 34 00
+        E 1402 90 26 7f
+        E 240 80 26 00
+        E 240 90 30 7f
+        E 241 80 30 00
+        E 481 90 26 7f
+        E 320 80 26 00
+        E 1362 90 26 7f
+        E 240 80 26 00
+        E 521 90 30 7f
+        E 160 80 30 00
+        E 521 90 26 7f
+        E 120 80 26 00
+        E 201 90 26 7f
+        E 200 80 26 00
+        E 360 90 30 7f
+        E 161 80 30 00
+        E 841 90 26 7f
+        E 240 80 26 00
+        E 841 90 30 7f
+        E 241 80 30 00
+        E 2804 90 26 7f
+        E 280 80 26 00
+        E 481 90 30 7f
+        E 200 80 30 00
+        E 481 90 26 7f
+        E 160 80 26 00
+        E 201 90 26 7f
+        E 160 80 26 00
+        E 400 90 26 7f
+        E 161 80 26 00
+        E 1001 90 26 7f
+        E 200 80 26 00
+        E 161 90 26 7f
+        E 200 80 26 00
+        E 200 90 26 7f
+        E 160 80 26 00
+        E 321 90 30 7f
+        E 160 80 30 00
+        E 401 90 26 7f
+        E 240 80 26 00
+        E 3806 90 35 7f
+        E 200 80 35 00
+        E 280 90 35 7f
+        E 120 80 35 00
+        E 361 90 35 7f
+        E 120 80 35 00
+        E 481 90 37 7f
+        E 160 80 37 00
+        E 281 90 37 7f
+        E 200 80 37 00
+        E 200 90 37 7f
+        E 160 80 37 00
+        E 281 90 37 7f
+        E 160 80 37 00
+        E 361 90 39 7f
+        E 280 80 39 00
+        E 280 90 39 7f
+        E 121 80 39 00
+        E 240 90 39 7f
+        E 120 80 39 00
+        E 280 90 39 7f
+        E 121 80 39 00
+        E 240 90 39 7f
+        E 160 80 39 00
+        E 201 90 39 7f
+        E 160 80 39 00
+        E 160 90 39 7f
+        E 120 80 39 00
+        E 160 90 39 7f
+        E 201 80 39 00
+        E 280 90 3b 7f
+        E 120 80 3b 00
+        E 161 90 3b 7f
+        E 200 80 3b 00
+        E 160 90 3b 7f
+        E 120 80 3b 00
+        E 241 90 39 7f
+        E 120 80 39 00
+        E 200 90 39 7f
+        E 120 80 39 00
+        E 201 90 39 7f
+        E 120 80 39 00
+        E 200 90 39 7f
+        E 80 80 39 00
+        E 240 90 39 7f
+        E 121 80 39 00
+        E 120 90 39 7f
+        E 200 80 39 00
+        E 281 90 39 7f
+        E 80 80 39 00
+        E 721 90 26 7f
+        E 280 80 26 00
+        E 481 90 30 7f
+        E 200 80 30 00
+        E 401 90 26 7f
+        E 160 80 26 00
+        E 160 90 26 7f
+        E 160 80 26 00
+        E 161 90 26 7f
+        E 160 80 26 00
+        E 320 90 30 7f
+        E 281 80 30 00
+        E 240 90 39 7f
+        E 200 80 39 00
+        E 281 90 26 7f
+        E 280 80 26 00
+        E 1242 90 26 7f
+        E 200 80 26 00
+        E 521 90 30 7f
+        E 200 80 30 00
+        E 401 90 26 7f
+        E 160 80 26 00
+        E 200 90 26 7f
+        E 121 80 26 00
+        E 160 90 26 7f
+        E 160 80 26 00
+        E 361 90 39 7f
+        E 160 80 39 00
+        E 400 90 26 7f
+        E 201 80 26 00
+        E 320 90 30 7f
+        E 201 80 30 00
+        E 640 90 26 7f
+        E 241 80 26 00
+        E 360 90 26 7f
+        E 321 80 26 00
+        E 240 90 30 7f
+        E 241 80 30 00
+        E 240 90 39 7f
+        E 160 80 39 00
+        E 240 90 26 7f
+        E 321 80 26 00
+        E 400 90 26 7f
+        E 201 80 26 00
+        E 3685 90 26 7f
+        E 281 80 26 00
+        E 400 90 30 7f
+        E 241 80 30 00
+        E 360 90 26 7f
+        E 280 80 26 00
+        E 441 90 26 7f
+        E 281 80 26 00
+        E 2243 90 26 7f
+        E 360 80 26 00
+        E 201 90 26 7f
+        E 200 80 26 00
+        E 320 90 30 7f
+        E 201 80 30 00
+        E 360 90 30 7f
+        E 160 80 30 00
+        E 281 90 26 7f
+        E 320 80 26 00
+        E 241 90 26 7f
+        E 320 80 26 00
+        E 200 90 30 7f
+        E 241 80 30 00
+        E 200 90 30 7f
+        E 280 80 30 00
+        E 5809 90 2b 7f
+        E 120 80 2b 00
+        E 641 90 2b 7f
+        E 120 80 2b 00
+        E 601 90 2b 7f
+        E 120 80 2b 00
+        E 641 90 2b 7f
+        E 161 80 2b 00
+        E 640 90 2b 7f
+        E 81 80 2b 00
+        E 641 90 2b 7f
+        E 120 80 2b 00
+        E 641 90 2b 7f
+        E 80 80 2b 00
+        E 641 90 2b 7f
+        E 120 80 2b 00
+        E 601 90 2b 7f
+        E 120 80 2b 00
+        E 681 90 2b 7f
+        E 80 80 2b 00
+        E 681 90 2b 7f
+        E 160 80 2b 00
+        E 281 90 29 7f
+        E 200 80 29 00
+        E 120 90 2b 7f
+        E 160 80 2b 00
+        E 641 90 29 7f
+        E 80 80 29 00
+        E 121 90 2b 7f
+        E 200 80 2b 00
+        E 160 90 29 7f
+        E 160 80 29 00
+        E 641 90 2b 7f
+        E 120 80 2b 00
+        E 281 90 29 7f
+        E 160 80 29 00
+        E 120 90 2b 7f
+        E 161 80 2b 00
+        E 520 90 29 7f
+        E 161 80 29 00
+        E 240 90 2b 7f
+        E 120 80 2b 00
+        E 160 90 29 7f
+        E 161 80 29 00
+        E 520 90 2b 7f
+        E 161 80 2b 00
+        E 200 90 29 7f
+        E 160 80 29 00
+        E 160 90 2b 7f
+        E 161 80 2b 00
+        E 600 90 29 7f
+        E 161 80 29 00
+        E 240 90 2b 7f
+        E 80 80 2b 00
+        E 160 90 29 7f
+        E 201 80 29 00
+        E 520 90 2b 7f
+        E 121 80 2b 00
+        E 160 90 29 7f
+        E 120 80 29 00
+        E 320 90 2b 7f
+        E 201 80 2b 00
+        E 440 90 29 7f
+        E 121 80 29 00
+        E 80 90 2b 7f
+        E 80 80 2b 00
+        E 80 90 29 7f
+        E 120 80 29 00
+        E 80 90 2b 7f
+        E 80 80 2b 00
+        E 201 90 29 7f
+        E 40 90 2b 7f
+        E 40 80 29 00
+        E 40 80 2b 00
+        E 160 90 29 7f
+        E 40 90 2b 7f
+        E 0 80 29 00
+        E 160 80 2b 00
+        E 40 90 29 7f
+        E 121 90 2b 7f
+        E 0 80 29 00
+        E 120 80 2b 00
+        E 80 90 29 7f
+        E 80 80 29 00
+        E 0 90 2b 7f
+        E 120 80 2b 00
+        E 40 90 29 7f
+        E 80 80 29 00
+        E 40 90 2b 7f
+        E 121 80 2b 00
+        E 0 90 29 7f
+        E 120 80 29 00
+        E 0 90 2b 7f
+        E 120 80 2b 00
+        E 0 90 29 7f
+        E 160 90 2b 7f
+        E 0 80 29 00
+        E 80 80 2b 00
+        E 120 90 2b 7f
+        E 40 90 29 7f
+        E 41 80 2b 00
+        E 80 80 29 00
+        E 40 90 2b 7f
+        E 120 80 2b 00
+        E 0 90 29 7f
+        E 80 80 29 00
+        E 40 90 2b 7f
+        E 120 80 2b 00
+        E 40 90 29 7f
+        E 40 90 2b 7f
+        E 121 80 2b 00
+        E 40 80 29 00
+        E 80 90 2b 7f
+        E 80 90 29 7f
+        E 40 80 2b 00
+        E 80 80 29 00
+        E 40 90 2b 7f
+        E 160 90 29 7f
+        E 40 80 2b 00
+        E 40 80 29 00
+        E 40 90 2b 7f
+        E 121 90 29 7f
+        E 40 80 2b 00
+        E 80 80 29 00
+        E 40 90 2b 7f
+        E 200 80 2b 00
+        E 0 90 29 7f
+        E 120 90 2b 7f
+        E 40 80 29 00
+        E 81 80 2b 00
+        E 80 90 29 7f
+        E 80 90 2b 7f
+        E 40 80 29 00
+        E 80 80 2b 00
+        E 80 90 2b 7f
+        E 80 90 29 7f
+        E 120 80 29 00
+        E 0 80 2b 00
+        E 121 90 2b 7f
+        E 40 90 29 7f
+        E 120 80 2b 00
+        E 0 80 29 00
+        E 120 90 2b 7f
+        E 80 90 29 7f
+        E 40 80 2b 00
+        E 120 80 29 00
+        E 40 90 2b 7f
+        E 161 80 2b 00
+        E 0 90 29 7f
+        E 120 80 29 00
+        E 40 90 2b 7f
+        E 120 80 2b 00
+        E 40 90 29 7f
+        E 160 90 2b 7f
+        E 0 80 29 00
+        E 161 80 2b 00
+        E 0 90 29 7f
+        E 200 90 2b 7f
+        E 0 80 29 00
+        E 160 80 2b 00
+        E 40 90 29 7f
+        E 120 90 2b 7f
+        E 40 80 29 00
+        E 40 80 2b 00
+        E 201 90 29 7f
+        E 0 90 2b 7f
+        E 80 80 29 00
+        E 40 80 2b 00
+        E 80 90 29 7f
+        E 80 90 2b 7f
+        E 40 80 29 00
+        E 80 80 2b 00
+        E 80 90 29 7f
+        E 81 90 2b 7f
+        E 120 80 29 00
+        E 40 80 2b 00
+        E 961 90 2b 7f
+        E 160 80 2b 00
+        E 0 90 29 7f
+        E 201 90 2b 7f
+        E 0 80 29 00
+        E 120 80 2b 00
+        E 200 90 2b 7f
+        E 40 90 29 7f
+        E 120 80 2b 00
+        E 0 80 29 00
+        E 161 90 2b 7f
+        E 80 90 29 7f
+        E 40 80 2b 00
+        E 40 80 29 00
+        E 80 90 2b 7f
+        E 120 90 29 7f
+        E 80 80 2b 00
+        E 40 80 29 00
+        E 80 90 2b 7f
+        E 161 80 2b 00
+        E 0 90 29 7f
+        E 80 80 29 00
+        E 40 90 2b 7f
+        E 160 80 2b 00
+        E 0 90 29 7f
+        E 120 80 29 00
+        E 40 90 2b 7f
+        E 120 90 29 7f
+        E 41 80 2b 00
+        E 80 80 29 00
+        E 40 90 2b 7f
+        E 160 80 2b 00
+        E 40 90 29 7f
+        E 120 80 29 00
+        E 0 90 2b 7f
+        E 160 80 2b 00
+        E 0 90 29 7f
+        E 121 80 29 00
+        E 40 90 2b 7f
+        E 240 80 2b 00
+        E 561 90 2b 7f
+        E 120 80 2b 00
+        E 481 90 2b 7f
+        E 120 80 2b 00
+        E 200 90 2b 7f
+        E 200 80 2b 00
+        E 241 90 2b 7f
+        E 80 80 2b 00
+        E 200 90 2b 7f
+        E 120 80 2b 00
+        E 161 90 2b 7f
+        E 120 80 2b 00
+        E 200 90 2b 7f
+        E 120 80 2b 00
+        E 161 90 2b 7f
+        E 120 80 2b 00
+        E 240 90 2b 7f
+        E 160 80 2b 00
+        E 161 90 2d 7f
+        E 80 90 2b 7f
+        E 0 80 2d 00
+        E 120 80 2b 00
+        E 240 90 2b 7f
+        E 120 80 2b 00
+        E 201 90 2b 7f
+        E 80 80 2b 00
+        E 200 90 2b 7f
+        E 120 80 2b 00
+        E 160 90 2b 7f
+        E 121 80 2b 00
+        E 40 90 2b 7f
+        E 120 80 2b 00
+        E 120 90 2d 7f
+        E 80 90 2b 7f
+        E 80 80 2d 00
+        E 40 80 2b 00
+        E 281 90 2b 7f
+        E 120 80 2b 00
+        E 160 90 2b 7f
+        E 160 80 2b 00
+        E 201 90 2b 7f
+        E 80 80 2b 00
+        E 200 90 2b 7f
+        E 120 80 2b 00
+        E 201 90 2f 7f
+        E 80 90 2b 7f
+        E 40 80 2f 00
+        E 120 80 2b 00
+        E 200 90 2b 7f
+        E 120 80 2b 00
+        E 201 90 2b 7f
+        E 80 80 2b 00
+        E 240 90 2b 7f
+        E 120 80 2b 00
+        E 161 90 2b 7f
+        E 200 80 2b 00
+        E 160 90 2b 7f
+        E 40 90 2d 7f
+        E 80 80 2b 00
+        E 40 80 2d 00
+        E 281 90 2b 7f
+        E 120 80 2b 00
+        E 160 90 2b 7f
+        E 160 80 2b 00
+        E 161 90 2b 7f
+        E 160 80 2b 00
+        E 80 90 2b 7f
+        E 160 80 2b 00
+        E 80 90 2f 7f
+        E 120 80 2f 00
+        E 41 90 2b 7f
+        E 120 80 2b 00
+        E 160 90 2b 7f
+        E 160 80 2b 00
+        E 200 90 2b 7f
+        E 121 80 2b 00
+        E 160 90 2b 7f
+        E 120 80 2b 00
+        E 200 90 2b 7f
+        E 161 80 2b 00
+        E 120 90 2d 7f
+        E 40 90 2b 7f
+        E 80 80 2d 00
+        E 80 80 2b 00
+        E 240 90 2b 7f
+        E 121 80 2b 00
+        E 200 90 2b 7f
+        E 120 80 2b 00
+        E 160 90 2b 7f
+        E 161 80 2b 00
+        E 80 90 2b 7f
+        E 120 80 2b 00
+        E 80 90 2b 7f
+        E 200 80 2b 00
+        E 0 90 2f 7f
+        E 120 80 2f 00
+        E 40 90 2b 7f
+        E 241 80 2b 00
+        E 200 90 2b 7f
+        E 160 80 2b 00
+        E 161 90 2b 7f
+        E 120 80 2b 00
+        E 200 90 2b 7f
+        E 160 80 2b 00
+        E 241 90 2b 7f
+        E 120 80 2b 00
+        E 40 90 2d 7f
+        E 160 80 2d 00
+        E 0 90 2b 7f
+        E 160 80 2b 00
+        E 201 90 2b 7f
+        E 160 80 2b 00
+        E 160 90 2b 7f
+        E 200 80 2b 00
+        E 161 90 2b 7f
+        E 120 80 2b 00
+        E 160 90 2b 7f
+        E 200 80 2b 00
+        E 161 90 2b 7f
+        E 80 90 2f 7f
+        E 40 80 2b 00
+        E 40 80 2f 00
+        E 160 90 2b 7f
+        E 200 80 2b 00
+        E 161 90 2b 7f
+        E 160 80 2b 00
+        E 160 90 2b 7f
+        E 280 80 2b 00
+        E 161 90 2b 7f
+        E 120 80 2b 00
+        E 280 90 2b 7f
+        E 161 80 2b 00
+        E 160 90 2b 7f
+        E 120 80 2b 00
+        E 120 90 2b 7f
+        E 120 80 2b 00
+        E 201 90 30 7f
+        E 40 90 2b 7f
+        E 40 80 2b 00
+        E 80 80 30 00
+        E 40 90 2b 7f
+        E 160 80 2b 00
+        E 160 90 2b 7f
+        E 120 80 2b 00
+        E 161 90 2b 7f
+        E 120 80 2b 00
+        E 120 90 2b 7f
+        E 120 80 2b 00
+        E 160 90 2b 7f
+        E 81 80 2b 00
+        E 120 90 30 7f
+        E 40 90 2b 7f
+        E 80 80 30 00
+        E 40 80 2b 00
+        E 160 90 2b 7f
+        E 120 80 2b 00
+        E 161 90 2b 7f
+        E 120 80 2b 00
+        E 120 90 2b 7f
+        E 160 80 2b 00
+        E 160 90 2b 7f
+        E 121 80 2b 00
+        E 160 90 2b 7f
+        E 120 80 2b 00
+        E 0 90 32 7f
+        E 160 80 32 00
+        E 0 90 2b 7f
+        E 120 80 2b 00
+        E 161 90 2b 7f
+        E 120 80 2b 00
+        E 200 90 2b 7f
+        E 80 80 2b 00
+        E 161 90 2b 7f
+        E 120 80 2b 00
+        E 200 90 2b 7f
+        E 80 80 2b 00
+        E 200 90 2b 7f
+        E 121 80 2b 00
+        E 80 90 34 7f
+        E 120 90 2b 7f
+        E 40 80 34 00
+        E 40 80 2b 00
+        E 160 90 2b 7f
+        E 160 80 2b 00
+        E 161 90 2b 7f
+        E 160 80 2b 00
+        E 120 90 2b 7f
+        E 120 80 2b 00
+        E 161 90 2b 7f
+        E 160 80 2b 00
+        E 160 90 2b 7f
+        E 120 80 2b 00
+        E 200 90 2b 7f
+        E 81 90 34 7f
+        E 80 80 2b 00
+        E 40 80 34 00
+        E 120 90 2b 7f
+        E 160 90 32 7f
+        E 0 80 2b 00
+        E 160 90 2b 7f
+        E 81 80 32 00
+        E 80 80 2b 00
+        E 160 90 30 7f
+        E 0 90 2b 7f
+        E 160 80 2b 00
+        E 40 80 30 00
+        E 120 90 2b 7f
+        E 161 80 2b 00
+        E 80 90 34 7f
+        E 80 90 2b 7f
+        E 80 80 34 00
+        E 40 80 2b 00
+        E 160 90 2b 7f
+        E 201 80 2b 00
+        E 120 90 2b 7f
+        E 80 90 32 7f
+        E 120 80 2b 00
+        E 40 80 32 00
+        E 80 90 2b 7f
+        E 160 80 2b 00
+        E 121 90 30 7f
+        E 40 90 2b 7f
+        E 120 80 2b 00
+        E 80 80 30 00
+        E 80 90 2b 7f
+        E 160 80 2b 00
+        E 80 90 34 7f
+        E 121 90 2b 7f
+        E 80 80 34 00
+        E 0 80 2b 00
+        E 160 90 2b 7f
+        E 200 80 2b 00
+        E 0 90 32 7f
+        E 120 90 2b 7f
+        E 40 80 32 00
+        E 121 80 2b 00
+        E 120 90 2b 7f
+        E 80 90 30 7f
+        E 120 80 2b 00
+        E 40 80 30 00
+        E 120 90 2b 7f
+        E 161 80 2b 00
+        E 120 90 2b 7f
+        E 160 80 2b 00
+        E 40 90 34 7f
+        E 160 90 2b 7f
+        E 0 80 34 00
+        E 120 80 2b 00
+        E 161 90 2b 7f
+        E 80 90 32 7f
+        E 80 80 2b 00
+        E 200 90 2b 7f
+        E 0 80 32 00
+        E 120 80 2b 00
+        E 121 90 2b 7f
+        E 80 90 30 7f
+        E 80 80 2b 00
+        E 120 80 30 00
+        E 80 90 2b 7f
+        E 160 80 2b 00
+        E 120 90 2b 7f
+        E 161 80 2b 00
+        E 0 90 34 7f
+        E 160 90 2b 7f
+        E 80 80 34 00
+        E 40 80 2b 00
+        E 120 90 2b 7f
+        E 161 80 2b 00
+        E 120 90 2b 7f
+        E 80 90 32 7f
+        E 80 80 2b 00
+        E 40 80 32 00
+        E 120 90 2b 7f
+        E 160 80 2b 00
+        E 81 90 30 7f
+        E 120 90 2b 7f
+        E 120 80 30 00
+        E 0 80 2b 00
+        E 200 90 2b 7f
+        E 160 80 2b 00
+        E 0 90 34 7f
+        E 161 90 2b 7f
+        E 40 80 34 00
+        E 120 80 2b 00
+        E 160 90 2b 7f
+        E 160 80 2b 00
+        E 40 90 32 7f
+        E 161 90 2b 7f
+        E 40 80 32 00
+        E 80 80 2b 00
+        E 160 90 2b 7f
+        E 160 80 2b 00
+        E 80 90 30 7f
+        E 121 90 2b 7f
+        E 80 80 30 00
+        E 40 80 2b 00
+        E 160 90 2b 7f
+        E 120 90 34 7f
+        E 40 80 2b 00
+        E 201 90 2b 7f
+        E 0 80 34 00
+        E 160 80 2b 00
+        E 120 90 2b 7f
+        E 160 80 2b 00
+        E 80 90 32 7f
+        E 120 90 2b 7f
+        E 121 80 32 00
+        E 40 80 2b 00
+        E 160 90 2b 7f
+        E 160 80 2b 00
+        E 40 90 30 7f
+        E 120 90 2b 7f
+        E 81 80 30 00
+        E 80 80 2b 00
+        E 160 90 2b 7f
+        E 200 80 2b 00
+        E 0 90 34 7f
+        E 160 90 2b 7f
+        E 40 80 34 00
+        E 121 80 2b 00
+        E 160 90 2b 7f
+        E 160 90 32 7f
+        E 0 80 2b 00
+        E 200 80 32 00
+        E 0 90 2b 7f
+        E 201 80 2b 00
+        E 160 90 30 7f
+        E 40 90 2b 7f
+        E 120 80 2b 00
+        E 40 80 30 00
+        E 160 90 2b 7f
+        E 161 80 2b 00
+        E 200 90 2b 7f
+        E 0 90 34 7f
+        E 160 80 2b 00
+        E 0 80 34 00
+        E 160 90 2b 7f
+        E 201 80 2b 00
+        E 160 90 2b 7f
+        E 200 80 2b 00
+        E 160 90 2b 7f
+        E 161 80 2b 00
+        E 40 90 37 7f
+        E 120 80 37 00
+        E 40 90 2b 7f
+        E 120 80 2b 00
+        E 40 90 37 7f
+        E 80 80 37 00
+        E 40 90 2b 7f
+        E 121 80 2b 00
+        E 40 90 37 7f
+        E 80 80 37 00
+        E 80 90 2b 7f
+        E 160 90 37 7f
+        E 0 80 2b 00
+        E 80 80 37 00
+        E 40 90 2b 7f
+        E 120 90 37 7f
+        E 41 80 2b 00
+        E 0 80 37 00
+        E 120 90 37 7f
+        E 40 90 2b 7f
+        E 80 80 37 00
+        E 80 80 2b 00
+        E 120 90 37 7f
+        E 40 90 2b 7f
+        E 40 80 37 00
+        E 80 80 2b 00
+        E 81 90 37 7f
+        E 80 90 2b 7f
+        E 40 80 37 00
+        E 80 80 2b 00
+        E 80 90 37 7f
+        E 40 90 2b 7f
+        E 40 80 37 00
+        E 80 90 37 7f
+        E 40 80 2b 00
+        E 40 80 37 00
+        E 120 90 2b 7f
+        E 41 90 37 7f
+        E 120 80 37 00
+        E 0 80 2b 00
+        E 120 90 2b 7f
+        E 200 80 2b 00
+        E 160 90 2b 7f
+        E 81 90 39 7f
+        E 120 80 2b 00
+        E 0 80 39 00
+        E 120 90 2b 7f
+        E 160 80 2b 00
+        E 120 90 2b 7f
+        E 241 80 2b 00
+        E 6369 90 2c 7f
+        E 160 80 2c 00
+        E 80 90 2e 7f
+        E 161 80 2e 00
+        E 480 90 2e 7f
+        E 160 80 2e 00
+        E 401 90 2e 7f
+        E 160 80 2e 00
+        E 601 90 2e 7f
+        E 200 80 2e 00
+        E 481 90 2a 7f
+        E 120 80 2a 00
+        E 0 90 2e 7f
+        E 241 80 2e 00
+        E 400 90 2a 7f
+        E 161 80 2a 00
+        E 0 90 2e 7f
+        E 240 80 2e 00
+        E 400 90 2a 7f
+        E 121 80 2a 00
+        E 80 90 2e 7f
+        E 160 80 2e 00
+        E 320 90 2a 7f
+        E 161 80 2a 00
+        E 120 90 2e 7f
+        E 160 80 2e 00
+        E 281 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 200 80 2e 00
+        E 241 90 2a 7f
+        E 160 80 2a 00
+        E 80 90 2e 7f
+        E 200 80 2e 00
+        E 241 90 2a 7f
+        E 160 80 2a 00
+        E 120 90 2e 7f
+        E 200 80 2e 00
+        E 201 90 2a 7f
+        E 120 80 2a 00
+        E 120 90 2e 7f
+        E 160 80 2e 00
+        E 240 90 2a 7f
+        E 121 80 2a 00
+        E 80 90 2e 7f
+        E 120 80 2e 00
+        E 280 90 2a 7f
+        E 161 80 2a 00
+        E 120 90 2e 7f
+        E 160 80 2e 00
+        E 200 90 2a 7f
+        E 120 80 2a 00
+        E 161 90 2e 7f
+        E 120 80 2e 00
+        E 200 90 2a 7f
+        E 160 80 2a 00
+        E 161 90 2e 7f
+        E 80 80 2e 00
+        E 240 90 2a 7f
+        E 120 80 2a 00
+        E 161 90 2e 7f
+        E 120 80 2e 00
+        E 240 90 2a 7f
+        E 160 80 2a 00
+        E 80 90 2e 7f
+        E 80 80 2e 00
+        E 281 90 2a 7f
+        E 80 80 2a 00
+        E 200 90 2e 7f
+        E 80 80 2e 00
+        E 9134 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {B8A7C1F8-8AE7-4AD7-D144-9BE390490C31}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 2
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+      >
+    >
+  >
+  <TRACK {5B1B9FC5-CDB4-E0CC-9ADB-6FDAD3751A9E}
+    NAME Toms1
+    PEAKCOL 20244371
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {5B1B9FC5-CDB4-E0CC-9ADB-6FDAD3751A9E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {586E827F-F4CC-77A2-CFBE-A0E87F0675B6}
+      IID 102
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 1]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE5068F7-8FE7-93ED-6DAD-AFA54FC00748}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 1].wav"
+      >
+    >
+  >
+  <TRACK {82F340D0-E471-A299-6969-33D947F790FB}
+    NAME Toms2
+    PEAKCOL 20244371
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {82F340D0-E471-A299-6969-33D947F790FB}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {37B160BD-80F0-C121-3785-1E6C8BFD2B37}
+      IID 103
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 2]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {077BBF2D-E58C-BA62-4A36-6E01B7FC49BD}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 2].wav"
+      >
+    >
+  >
+  <TRACK {EA96844A-1B7D-2233-021E-0425C2FFBAE2}
+    NAME Snare1
+    PEAKCOL 20244371
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {EA96844A-1B7D-2233-021E-0425C2FFBAE2}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1F871157-DBDF-15E1-1862-A81906D67146}
+      IID 104
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 3]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0643EC87-E638-97FD-3C6E-85FF054BF5DB}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 3].wav"
+      >
+    >
+  >
+  <TRACK {538FA80E-AB66-C365-516C-9CB44C9546D0}
+    NAME Snare2
+    PEAKCOL 20244371
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0.984 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {538FA80E-AB66-C365-516C-9CB44C9546D0}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {90FEBF69-2A6E-4393-E610-61640626ABC5}
+      IID 105
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 4]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {121BEAD3-486F-C361-DB3B-916277FAFE8C}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 4].wav"
+      >
+    >
+  >
+  <TRACK {85743AF2-2BD2-B3D0-71AB-132A5180264E}
+    NAME Plato1
+    PEAKCOL 20244371
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 -1 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {85743AF2-2BD2-B3D0-71AB-132A5180264E}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F66A203E-3431-B5D6-AF1A-379C9396080E}
+      IID 106
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 5]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F31BF269-6AF8-FFE9-6B24-4DA5EFA25EB9}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 5].wav"
+      >
+    >
+  >
+  <TRACK {A934093F-2899-61DC-11FD-7F92EA732E67}
+    NAME Plato2
+    PEAKCOL 20244371
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0.952 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 2 -1
+    BUSCOMP 2 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A934093F-2899-61DC-11FD-7F92EA732E67}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0.21943571928053
+      SNAPOFFS 0
+      LENGTH 304
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E365F3B3-C936-60D7-00E2-6B43D3382279}
+      IID 107
+      NAME "Nirvana - Smells Like Teen Spirit.mogg [chan 6]"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D4AD0B6-EA69-C1E2-C870-4A67F3387075}
+      <SOURCE WAVE
+        FILE "Nirvana - Smells Like Teen Spirit [chan 6].wav"
+      >
+    >
+  >
+  <TRACK {FF8E6C18-8D61-56A6-3A36-712BA7918EDB}
+    NAME GlobalReverb
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {FF8E6C18-8D61-56A6-3A36-712BA7918EDB}
+    PERF 0
+    AUXRECV 0 0 0.44668359215096 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 4 0 0.09222120553777 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 5 0 0.09225714271548 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 15 0 0.05623413251903 0 0 0 0 0 0 -1:U 0 -1 ''
+    AUXRECV 16 0 0.05623413251903 0 0 0 0 0 0 -1:U 0 -1 ''
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 258 108 997 607
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaVerb (Cockos)" reaverb.vst.so 0 "" 1919252066<56535472657662726561766572620000> ""
+        YnZlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAATAAAAAEAAAAAABAA
+        AAAQwQAAgD8AAAAAAAAAAAAAgD8AAIA/AAAAPwAAgD8AAIA/AAAAQFZFUkJHRU4AGAAAAAAAAAAAAHpEAACAPwAAskIAAEhCAACAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {51543049-7045-9A68-C80D-F1C1233B2C52}
+      WAK 0 0
+    >
+  >
+  <TRACK {9D987250-BD8A-18E7-05EF-3728A76F3554}
+    NAME GlobalEco
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 64
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9D987250-BD8A-18E7-05EF-3728A76F3554}
+    PERF 0
+    AUXRECV 0 0 1 0 0 0 0 0 0 -1:U 0 -1 ''
+    <AUXMUTEENV
+      EGUID {6072C0C4-48CF-1C52-2405-4B786C663E0A}
+      ACT 1 -1
+      VIS 1 1 1
+      LANEHEIGHT 0 0
+      ARM 1
+      DEFSHAPE 1 -1 -1
+      PT 0 0 1
+      PT 41.01802083 1 1
+      PT 43.38602083 0 1
+      PT 50.06335417 1 1
+      PT 51.32202083 0 1
+      PT 52.62335417 1 1
+      PT 56.1646875 0 1
+      PT 59.64202083 1 1
+      PT 61.30602083 0 1
+      PT 64.6126875 1 1
+      PT 67.72735417 0 1
+      PT 87.56735417 1 1
+      PT 95.1406875 0 1
+      PT 97.53002083 1 1
+      PT 99.19402083 0 1
+      PT 124.8366875 1 1
+      PT 133.13535417 0 1
+      PT 165.81802083 1 1
+      PT 173.9886875 0 1
+      PT 231.75935417 1 1
+      PT 238.73535417 0 1
+      PT 241.16735417 1 1
+      PT 245.56202083 0 1
+      PT 246.73535417 1 1
+      PT 251.6206875 0 1
+      PT 254.46497917 1 1
+      PT 256.38497917 0 1
+      PT 257.3293125 0 1
+      PT 267.1086875 1 1
+      PT 269.1566875 0 1
+    >
+    MIDIOUT -1
+    MAINSEND 1 0
+    <FXCHAIN
+      WNDRECT 32 77 910 455
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+      BYPASS 0 0 0
+      <VST "VST: ReaDelay (Cockos)" readelay.vst.so 0 "" 1919247468<5653547265646C72656164656C617900> ""
+        bGRlcu5e7f4CAAAAAQAAAAAAAAACAAAAAAAAAAIAAAABAAAAAAAAAAIAAAAAAAAA0AAAAAEAAAAAABAA
+        AAAAAAAAAAAEAAAALAAAAAIAAAADAAAAAACAPwAAAAAAAAAAAACAPwAAAAAAAIA7LNkdP3e+Hz64QII8AACAPwAAgD94JKE/AAAAAAAAAAAAAIA/AAAAAAAAADws2R0/
+        d74fPrhAgjwAAIA/AACAP02ejz8AAIA/AAAAAAAAgD8AAAAAAABAPCzZHT93vh8+uECCPAAAgD8AAIA/AACAPwAAAAAAAAAAAACAPwAAAAAAAIA8LNkdP3e+Hz64QII8
+        AACAPwAAgD8FKWQ/AACAPw==
+        AFByb2dyYW0gMQAQAAAA
+      >
+      FLOATPOS 0 0 0 0
+      FXID {1A331786-2E71-08C5-9F7A-0177BC9E1A47}
+      WAK 0 0
+    >
+  >
+>

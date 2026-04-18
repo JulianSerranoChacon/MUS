@@ -1,0 +1,8 @@
+Julián Serrano Chacón
+Mika Rodríguez Castro
+
+Hemos realizado todos los apartados obligatorios de la práctica y todos los opcionales menos los 2 últimos del primer ejercicio.
+
+Hemos usado Numa, Spitfire Orchestal y Vital como recomendaba en el enunciado.
+
+Hemos tenido problemas al encontrar una sonoridad adecuada en el último ejercicio y con escribir por teclado (de ordenador) la melodía del primero.
